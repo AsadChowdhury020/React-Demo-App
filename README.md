@@ -35,4 +35,4 @@ The main goal of this project is to understand **state management, event handlin
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/react-demo-app.git
+git clone https://github.com/AsadChowdhury020/React-Demo-App
